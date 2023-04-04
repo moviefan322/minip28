@@ -1,6 +1,9 @@
 {
   "name": "28-Stu_Mini-Project",
   "version": "1.0.1",
+  "engines": {
+    "node": "16.x"
+  },
   "description": "Mongoose back-end project - Develop",
   "main": "index.js",
   "license": "MIT",
